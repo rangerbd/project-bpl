@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Sakib Al Hasan",
+    "age": 30,
+    "country": "Bangladesh",
+    "salary": 1000,
+    "image": "https://i.ibb.co/gP3672m/Shakib-Al-Hasan-File.jpg"
+  }, {
+    "id": 2,
+    "name": "Mustafizur Rahman",
+    "age": 23,
+    "country": "Bangladesh",
+    "salary": "800",
+    "image": "https://i.ibb.co/fHBwgH2/319734-square.png"
+  }, {
+    "id": 3,
+    "name": "Ms Dhoni",
+    "age": 45,
+    "country": "India",
+    "salary": 1500,
+    "image": "https://i.ibb.co/NWNsbzh/images-4.jpg"
+  }, {
+    "id": 4,
+    "name": "Wasim Akram",
+    "age": 45,
+    "country": "Pakistan",
+    "salary":1200,
+    "image": "https://i.ibb.co/G5zsnWz/images.jpg"
+  },{
+    "id": 5,
+    "name": "Virat Kohli",
+    "age": 33,
+    "country": "India",
+    "salary": 1600,
+    "image": "https://i.ibb.co/mGtFq8d/viratkohli-1631166938.jpg"
+  }, {
+    "id": 6,
+    "name": "Shane Warne",
+    "age": 52,
+    "country": "Australia",
+    "salary": 700,
+    "image": "https://i.ibb.co/2qmZkTH/89997893.webp"
+  }, {
+    "id": 7,
+    "name": "Rabada",
+    "age": 20,
+    "country": "South-africa",
+    "salary": 500,
+    "image": "https://i.ibb.co/RBr6PhC/69616625.jpg"
+  }, {
+    "id": 8,
+    "name": "Irfan Pathan",
+    "age": 40,
+    "country": "India",
+    "salary": 400,
+    "image": "https://i.ibb.co/165cX58/images-2.jpg"
+  }, {
+    "id": 9,
+    "name": "Aaron finch",
+    "age": 31,
+    "country": "Australia",
+    "salary": "$7.24",
+    "image": ""
+  }, {
+    "id": 10,
+    "name": "Denial Vettori",
+    "age": 37,
+    "country": "New zealand",
+    "salary":1650,
+    "image": "https://i.ibb.co/HN395dv/images-3.jpg"
+  }, {
+    "id": 11,
+    "name": "Jos Buttler",
+    "age": 25,
+    "country": "United kingdom",
+    "salary": 2000,
+    "image": "https://i.ibb.co/PGb76CY/download.jpg"
+  }, {
+    "id": 12,
+    "name": "Jofry Archer",
+    "age": 23,
+    "country": "United kingdom",
+    "salary": 2500,
+    "image": "https://i.ibb.co/377jm8K/images-1.jpg"
+  }, {
+    "id": 13,
+    "name": "Shawn Tait",
+    "age": 27,
+    "country": "Australia",
+    "salary": 1200,
+    "image": "https://i.ibb.co/TwXgMpg/Shaun-Tait-1-2.jpg"
+  }, {
+    "id": 14,
+    "name": "Brett lee",
+    "age": 29,
+    "country": "Australia",
+    "salary": 1800,
+    "image": "https://i.ibb.co/DK9cV43/Brett-Lee-MN2-S.jpg"
+  }, {
+    "id": 15,
+    "name": "Shoaib Akter",
+    "age": 43,
+    "country": "Pakistan",
+    "salary": 700,
+    "image": "https://i.ibb.co/hBVqdTg/shoaib-akhtar-8-1.png"
+  }]
