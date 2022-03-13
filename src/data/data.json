@@ -10,7 +10,7 @@
     "name": "Mustafizur Rahman",
     "age": 23,
     "country": "Bangladesh",
-    "salary": "800",
+    "salary": 800,
     "image": "https://i.ibb.co/fHBwgH2/319734-square.png"
   }, {
     "id": 3,
@@ -59,8 +59,8 @@
     "name": "Aaron finch",
     "age": 31,
     "country": "Australia",
-    "salary": "$7.24",
-    "image": ""
+    "salary": 7.24,
+    "image": "https://i.ibb.co/WBdq534/download-1.jpg"
   }, {
     "id": 10,
     "name": "Denial Vettori",
